@@ -1,0 +1,10 @@
+.hero-section {
+    background-color: black; /* Set the background color to black */
+  }
+  
+  .hero-section .hero-img {
+    display: block;
+    margin: 0 auto;
+    opacity: 0.8;
+  }
+  
